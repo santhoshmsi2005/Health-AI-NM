@@ -1,1 +1,1 @@
-!pip install transformers torch gradio -q
+pip install transformers torch gradio -q
